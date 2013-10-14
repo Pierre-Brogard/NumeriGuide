@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BF3616D-8EE6-4289-8194-FFEEEF41B447</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Numeriguide_v.0.1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0FC18446-BA7E-4240-B520-531C72673464</key>
+		<string>https://github.com/Pierre-Brogard/NumeriGuide.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Numeriguide_v.0.1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0FC18446-BA7E-4240-B520-531C72673464</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Pierre-Brogard/NumeriGuide.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0FC18446-BA7E-4240-B520-531C72673464</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0FC18446-BA7E-4240-B520-531C72673464</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NumeriGuide_Projet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
